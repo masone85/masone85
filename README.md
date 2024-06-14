@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emily
-- 👀 I’m interested in Front End Development
+- 👀 I’m interested in Front End Development & Software Engineering
 - 🌱 I’m currently learning with Matt from SheCodes
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me masone85@gmail.com
