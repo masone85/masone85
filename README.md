@@ -4,6 +4,7 @@
 🤓 I’ve recently relocated from the UK to sunny Spain, when I'm not on the beach, I'm gaming, moderating, experimenting with new ideas for my [online shop](https://supersoniceuro.etsy.com).<br/>
 📫 How to reach me masone85@gmail.com <br/>
 
+[![Emily's GitHub stats](https://github-readme-stats.vercel.app/api?username=masone85)](https://github.com/masone85/github-readme-stats)
 
 <!---
 masone85/masone85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
