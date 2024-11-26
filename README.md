@@ -2,7 +2,7 @@
 
 I started learning to code through curiosity and just as a hobby. Now I'm upskilling myself to jump into a complete career change!
 
-👩‍💻 My front-end journey began with [SheCodes](https://www.shecodes.io/users/55813-emily-mason), I would love an internship, or junior role to hone my skills in the workplace.<br/>
+👩‍💻 My front-end journey began with [SheCodes](https://www.shecodes.io/users/55813-emily-mason), which I found so much fun and have continued my learning journey with Matt and the team. I would love an internship, or junior role (if such a thing exists for mature students) to hone my skills in the workplace and put my imagination and problem solving skills to good use in web sites, apps and maybe one day games.<br/>
 🤓 I’ve recently relocated from the UK to sunny Spain, when I'm not on the beach, I'm gaming, moderating, or experimenting with new ideas for my [online shop](https://supersoniceuro.etsy.com).<br/>
 📫 How to reach me masone85@gmail.com <br/>
 
